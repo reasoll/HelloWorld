@@ -11,7 +11,7 @@ public class Hero {
 	int golden;// ½ðÇ®
 
 	void keng() {
-		System.out.println("¿Ï¶ÓÓÑ£¡");
+		System.out.println("¿Ó¶ÓÓÑ£¡");
 
 	}
 
