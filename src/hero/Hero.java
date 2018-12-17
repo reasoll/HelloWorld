@@ -53,7 +53,8 @@ public class Hero {
 		System.out.println("增加1000");
 		garen.addGolden(1000);
 		System.out.println("加钱后：" + garen.golden);
-//	    System.out.println(garen.kill);
+	    System.out.println(garen.kill);
+	    System.out.println("改下试试");
 
 	}
 
